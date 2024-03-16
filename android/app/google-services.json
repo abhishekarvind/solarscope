@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458144058212",
+    "project_id": "solarscope-d7ca5",
+    "storage_bucket": "solarscope-d7ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458144058212:android:85b5a81e6afeb1b4e14871",
+        "android_client_info": {
+          "package_name": "com.example.solarscope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfej-zspfL_0UPEla1ywtNUQerwwiBTZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
