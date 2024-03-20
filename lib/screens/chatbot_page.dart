@@ -75,7 +75,7 @@ class _ChatPageState extends State<ChatPage> {
       child: Scaffold(
         appBar: AppBar(
           title: CustomTextStyles.head("SunGuide Buddy", 24.0),
-git
+
         ),
         body: Container(
           decoration: const BoxDecoration(
